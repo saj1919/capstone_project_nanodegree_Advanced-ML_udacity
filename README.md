@@ -21,7 +21,7 @@ Python 2.7 is required and libraries needed are
 Code will run same on cpu and gpu. But for faster runtimes gpu is recommended.
 
 References
-https://www.kaggle.com/mczielinski/bitcoin-historical-data/data
-https://blockchain.info/api
-https://machinelearningmastery.com/keras-functional-api-deep-learning/
-https://towardsdatascience.com/basic-time-series-analysis-and-trading-strategy-with-bitcoin-price-data-1a8f1a30f11
+1. https://www.kaggle.com/mczielinski/bitcoin-historical-data/data
+2. https://blockchain.info/api
+3. https://machinelearningmastery.com/keras-functional-api-deep-learning/
+4. https://towardsdatascience.com/basic-time-series-analysis-and-trading-strategy-with-bitcoin-price-data-1a8f1a30f11
