@@ -1,4 +1,5 @@
-# capstone_project_nanodegree_Advanced-ML_udacity
+### Machine Learning Advanced Nanodegree Capstone Project Report
+# Crypto-Currency Price Forecasting
 
 Steps To Run Code
 1. Data to be downloaded from https://www.kaggle.com/mczielinski/bitcoin-historical-data/data
